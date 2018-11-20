@@ -1,0 +1,30 @@
+{
+  "name": "async-define-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=production webpack -p",
+    "build-dev": "NODE_ENV=development webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stecb/async-define-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stecb/async-define-boilerplate/issues"
+  },
+  "homepage": "https://github.com/stecb/async-define-boilerplate#readme",
+  "dependencies": {
+    "async-define": "^3.2.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "webpack": "^4.26.0",
+    "webpack-async-define": "^1.1.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  }
+}
