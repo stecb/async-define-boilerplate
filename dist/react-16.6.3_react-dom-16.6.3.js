@@ -375,8 +375,8 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-async_define__WEBPACK_IMPORTED_MODULE_0___default()('react-16.6.3', () => react__WEBPACK_IMPORTED_MODULE_1___default.a);
-async_define__WEBPACK_IMPORTED_MODULE_0___default()('react-dom-16.6.3', () => react_dom__WEBPACK_IMPORTED_MODULE_2___default.a);
+async_define__WEBPACK_IMPORTED_MODULE_0___default()('react-16.6.3', function() { return react__WEBPACK_IMPORTED_MODULE_1___default.a });
+async_define__WEBPACK_IMPORTED_MODULE_0___default()('react-dom-16.6.3', function() { return react_dom__WEBPACK_IMPORTED_MODULE_2___default.a });
 
 
 /***/ }),
