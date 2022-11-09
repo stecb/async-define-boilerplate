@@ -22,7 +22,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "webpack": "^4.26.0",
-    "webpack-async-define": "^1.1.1"
+    "webpack-async-define": "^1.1.7"
   },
   "devDependencies": {
     "webpack-cli": "^3.1.2"
